@@ -2,7 +2,7 @@
 
 const mongodb = require('mongodb');
 const MongoClient = mongodb.MongoClient;
-const url = "mongodb://readOnly:PassWord@ds161399-a0.mlab.com:61399,ds161399-a1.mlab.com:61399/maturify?replicaSet=rs-ds161399";
+const url = "mongodb://admin:password@ds143081.mlab.com:43081/documentation_cook_book";
 
 function dbConnect(cb) {
     MongoClient.connect(url, function(err, db) {
