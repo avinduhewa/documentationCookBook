@@ -1,5 +1,7 @@
 # DocumentationCookBook
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/20da9a9395c74e8cbb79030da232682a)](https://www.codacy.com/app/avinduhewa/documentationCookBook?utm_source=github.com&utm_medium=referral&utm_content=avinduhewa/documentationCookBook&utm_campaign=badger)
+
 This is an open source application, that can be used to create documentation within your application.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3 and current version is 1.0.3
 
